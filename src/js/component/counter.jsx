@@ -1,6 +1,6 @@
 import React from "react";
 
-const SecondsCounter = (props)=>{
+const Counter = (props)=>{
     return (
         <div className="container-fluid d-flex">
             <div><i className="fa-regular fa-clock"></i></div>
@@ -12,5 +12,5 @@ const SecondsCounter = (props)=>{
     )
 }
 
-export default SecondsCounter
+export default Counter
 
